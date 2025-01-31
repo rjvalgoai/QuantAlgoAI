@@ -1,0 +1,2 @@
+# QuantAlgoAI
+Trading App
